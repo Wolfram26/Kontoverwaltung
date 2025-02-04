@@ -8,7 +8,6 @@ Teodor Stanculeasa
 INFn/ITL_12
 
 ## Klasse
-´´´cmd
 ````
 2bAPC | LBS-Eibiswald
 ````
