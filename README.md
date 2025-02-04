@@ -7,6 +7,12 @@ Teodor Stanculeasa
 ## Gegenstand
 INFn/ITL_12
 
+## Klasse
+´´´cmd
+````
+2bAPC | LBS-Eibiswald
+````
+
 ## Überblick
 Dieses Projekt implementiert eine einfache Bankanwendung in Java. Es besteht aus zwei Hauptklassen: `Main.java` und `Konto.java`. Die Anwendung erlaubt grundlegende Banktransaktionen und bietet eine Menüstruktur zur Interaktion.
 
