@@ -3,6 +3,11 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        Girokonto girokonto1 = new Girokonto("Teo", 3476, 88234456, 1500, 27, 1000, "Girokonto");
+
+        System.out.println(girokonto1.kontostand);
+        System.out.println(girokonto1.kontofuehrungsgebuehren + 3);
+        girokonto1.kontoAuszug();
     }
 
     public void Menu()

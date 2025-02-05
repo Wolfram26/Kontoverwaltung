@@ -1,34 +1,25 @@
-# SuperBank Java Anwendung
+# Kontoverwaltung
 
+## Description
+This is a simple banking system written in Java that simulates account operations like deposits, withdrawals, and account creation.
 
 ## Author
 Teodor Stanculeasa
 
-## Gegenstand
-INFn/ITL_12
+## Class
+2bAPC
 
-## Klasse
-````
-2bAPC | LBS-Eibiswald
-````
+## Subject
+INFn
 
-## Überblick
-Dieses Projekt implementiert eine einfache Bankanwendung in Java. Es besteht aus zwei Hauptklassen: `Main.java` und `Konto.java`. Die Anwendung erlaubt grundlegende Banktransaktionen und bietet eine Menüstruktur zur Interaktion.
+## Installation
+To install the project, clone this repository and open the project files in your IDE. Ensure you have Java 8 or higher installed.
 
-## Struktur
-- **Main.java**: Diese Klasse enthält das Hauptmenü der Anwendung. Hier können Benutzer auswählen, welche Bankaktion sie ausführen möchten.
-- **Konto.java**: Diese Klasse repräsentiert ein Bankkonto mit Attributen wie Kontoinhaber, Kontostand und Kontoart. Sie bietet Methoden zum Einzahlen, Abheben und zur Anzeige eines Kontoauszugs.
+## Technologies Used
+The system utilizes basic Java classes and object-oriented programming (OOP) concepts. It can be extended with additional features.
 
-## Funktionen
-1. **Konto anlegen:** Erstellen Sie ein neues Bankkonto mit den gewünschten Details.
-2. **Einzahlen:** Fügen Sie eine Summe zum Kontostand hinzu.
-3. **Abheben:** Ziehen Sie eine Summe vom Kontostand ab.
-4. **Kontoauszug:** Sehen Sie die grundlegenden Kontodetails ein.
-5. **Konto auflösen:** Entfernen Sie ein bestehendes Konto (funktional noch nicht implementiert).
-6. **Beenden:** Schließen Sie das Programm.
+## Screenshots
+Include relevant screenshots here.
 
-
-## Installation und Ausführung
-1. Laden Sie das Projekt herunter und öffnen Sie es in einer Java-IDE (z. B. IntelliJ IDEA oder Eclipse).
-2. Kompilieren und starten Sie die `Main.java`-Datei.
-3. Folgen Sie den Anweisungen im Menü.
+## License
+This project is licensed under the MIT License. See LICENSE file for more information.
